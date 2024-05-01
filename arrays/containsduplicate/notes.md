@@ -3,7 +3,7 @@
 
 # Approach
 - Initialize an unordered_set (hash table) which stores each elements in the array.
-- Iterate through the given array .
+- Iterate through the given array.
 - For each element in the iteration:
     - If that same element already exists in the hash table, return  true.
     - Else, add the element into the hash table and continue iterating. 
