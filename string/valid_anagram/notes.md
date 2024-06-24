@@ -1,3 +1,5 @@
+Problem 242
+
 # Intuition
 The idea is to create a hash map to store each characters and its count for both string s and t. If the character frequency does not match, then return false, otherwise it returns true.
 
